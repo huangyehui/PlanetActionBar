@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PlanetActionBar">
+        <attr name="backgroundColor" format="reference|color" />
+        <attr name="src" format="reference" />
+        <attr name="direct">
+            <enum name="top" value="0" />
+            <enum name="left" value="1" />
+            <enum name="bottom" value="2" />
+            <enum name="right" value="3" />
+        </attr>
+    </declare-styleable>
+
+</resources>
