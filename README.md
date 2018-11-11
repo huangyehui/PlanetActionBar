@@ -2,7 +2,7 @@
 
 效果如下：
 
-<img src="https://raw.githubusercontent.com/huangyehui/PlanetActionBar/master/preview.jpg" width="720" height="1280" alt="预览图"/>
+<img src="https://raw.githubusercontent.com/huangyehui/PlanetActionBar/master/preview.jpg" width="360" height="640" alt="预览图"/>
 
 
 Developed By
